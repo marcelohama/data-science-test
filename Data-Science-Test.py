@@ -67,10 +67,6 @@ sns.boxplot(X['sepal length (cm)'])
 
 sns.displot(X['sepal length (cm)'])
 
-———————
-
-assimetria = X['sepal length (cm)'].skew()
-print('Assimetria(Skewness) ', assimetria)
 
 ———————
 
